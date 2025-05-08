@@ -8,3 +8,8 @@ def goodbye():
 
 goodbye()
 
+def greet():
+    print("Nice to meet you!")
+
+greet()
+
